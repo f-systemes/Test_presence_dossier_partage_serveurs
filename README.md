@@ -1,5 +1,5 @@
 # Test_presence_dossier_partage_serveurs
-Script qui teste la présence d'un répertoire partagé sur une liste de serveurs
+Script qui teste la présence d'un répertoire partagé sur une liste de serveurs pour les afficher sur le terminal et/ou dans un fichier
 
 Instructions :
 - Télécharger le dossier Test_presence_dossier_partage_serveurs.
